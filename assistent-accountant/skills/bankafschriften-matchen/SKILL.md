@@ -68,14 +68,6 @@ Totaal onverwerkt: 47 transacties (€ 84.320)
 Wil je dat ik de 🟢 matches doorvoer?
 ```
 
-## Goedkeuringsmodel
-
-- 🟢 **GROEN** — Ophalen, analyseren, matchingsuggesties presenteren (automatisch)
-- 🟡 **ORANJE** — Boekingsvoorstel klaarzetten als memoriaalpost (meld + wacht op "ja")
-- 🔴 **ROOD** — Definitief boeken in het systeem (expliciete bevestiging verplicht)
-
-Vraag nooit meer dan één keer om bevestiging. Groepeer alle voorstellen en vraag eenmalig.
-
 ## MCP-specifieke details
 
 **Exact Online — let op:**

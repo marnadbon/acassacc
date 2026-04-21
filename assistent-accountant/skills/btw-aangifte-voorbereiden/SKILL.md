@@ -92,12 +92,6 @@ Afwijkingen: geen ✅
 Wil je deze aangifte ter review klaarzetten?
 ```
 
-## Goedkeuringsmodel
-
-- 🟢 **GROEN** — BTW ophalen, rubriceren, vergelijken, concept tonen (automatisch)
-- 🟡 **ORANJE** — Aangifte als "klaar voor beoordeling" markeren
-- 🔴 **ROOD** — Aangifte definitief indienen bij Belastingdienst (vraag expliciet om bevestiging met: "Weet je zeker dat je deze aangifte wilt indienen? Dit is een formele aangifte bij de Belastingdienst.")
-
 ## Referenties
 
 Als je de volledige rubriekenkaart nodig hebt (1a t/m 5g):

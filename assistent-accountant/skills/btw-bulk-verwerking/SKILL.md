@@ -70,12 +70,6 @@ Na het dashboard:
 - Markeer goedgekeurde aangiftes (🟡 ORANJE: markeren als "goedgekeurd")
 - Indienen: altijd per klant afzonderlijk met expliciete goedkeuring (🔴 ROOD)
 
-## Goedkeuringsmodel
-
-- 🟢 **GROEN** — Dashboard genereren, status ophalen (automatisch)
-- 🟡 **ORANJE** — Aangifte als "klaar voor review" markeren
-- 🔴 **ROOD** — Indienen — ALTIJD per klant afzonderlijk, nooit bulk-indienen
-
 ## Beperking
 
 BTW bulk werkt het beste met Exact Online (via System/Divisions om alle administraties op te halen). Voor Moneybird en AFAS: verwerk administraties één voor één of laat de accountant de klantlijst aanleveren.

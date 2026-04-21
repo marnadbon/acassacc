@@ -132,12 +132,6 @@ ACTIEPUNTEN VOOR DEFINITIEVE JAARREKENING:
 □ SBR-aanlevering via Nextens (buiten scope van dit systeem)
 ```
 
-## Goedkeuringsmodel
-
-- 🟢 **GROEN** — Cijfers ophalen, berekenen, presenteren (automatisch)
-- 🟡 **ORANJE** — Correctieboekingen voorstellen voor gevonden onregelmatigheden
-- 🔴 **ROOD** — Definitief indienen (SBR, KvK-deponering) — buiten scope, doorverwijzen
-
 ## Beperkingen
 
 - SBR/XBRL-aanlevering en KvK-deponering gaan via Nextens of Exact Jaarrekening module — buiten scope van deze skill

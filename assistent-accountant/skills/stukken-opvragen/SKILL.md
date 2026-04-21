@@ -114,12 +114,6 @@ Toon de e-mail en vraag: "Wil je deze e-mail versturen?"
 Als e-mail MCP beschikbaar is: verstuur via e-mail connector.
 Als niet beschikbaar: kopieer het concept zodat de accountant het zelf kan versturen.
 
-## Goedkeuringsmodel
-
-- 🟢 **GROEN** — Checklist controleren, ontbrekende stukken identificeren (automatisch)
-- 🟡 **ORANJE** — E-mail concept opstellen en tonen
-- 🔴 **ROOD** — E-mail definitief versturen
-
 ## Referenties
 
 Voor volledige documentchecklists per opdrachttype:

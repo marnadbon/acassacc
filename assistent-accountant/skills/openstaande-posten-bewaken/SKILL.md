@@ -80,12 +80,6 @@ Na het overzicht, bied aan:
 - Gedetailleerde factuurlijst voor een specifieke relatie
 - Export als overzicht
 
-## Goedkeuringsmodel
-
-- 🟢 **GROEN** — Ophalen, berekenen, rapporteren (automatisch)
-- 🟡 **ORANJE** — Betalingsherinnering opstellen als concept (toon eerst, wacht op "versturen")
-- 🔴 **ROOD** — Herinneringen definitief versturen via e-mail
-
 ## Notities
 
 - Toon bedragen altijd in euro met 2 decimalen

@@ -72,12 +72,6 @@ Als er een verschil is:
 2. Controleer of alle bankafschriften zijn ingelezen
 3. Zoek naar openstaande tussenrekeningen (journaalboek)
 
-## Goedkeuringsmodel
-
-- 🟢 **GROEN** — Saldo ophalen, vergelijken, rapporteren (automatisch)
-- 🟡 **ORANJE** — Correctieboeking voorstellen voor gevonden verschil
-- 🔴 **ROOD** — Correctie definitief boeken
-
 ## Belangrijk
 
 Het werkelijke banksaldo komt **niet** uit Exact Online — dat moet de accountant aanleveren (bankafschrift of online banking). De skill vergelijkt wat de accountant opgeeft met wat er in de boekhouding staat.

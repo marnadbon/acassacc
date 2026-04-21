@@ -85,12 +85,6 @@ KWALITEITSCHECK — [Klantnaam] — [Periode]
 
 Voor elke gevonden fout: stel een memoriaalpost voor als correctie. Presenteer alle voorstellen tegelijk, vraag eenmalig om goedkeuring.
 
-## Goedkeuringsmodel
-
-- 🟢 **GROEN** — Alle controles uitvoeren en rapporteren (automatisch)
-- 🟡 **ORANJE** — Correctie-memoriaalposten voorstellen (toon + wacht op "akkoord")
-- 🔴 **ROOD** — Correcties definitief wegschrijven
-
 ## Moneybird
 
 Moneybird heeft minder analysemogelijkheden. Controleer:

@@ -98,12 +98,6 @@ KIA-aftrek (28%):     €  7.840
 Wil je de journaalpost voor de afschrijvingen aanmaken?
 ```
 
-## Goedkeuringsmodel
-
-- 🟢 **GROEN** — Activastaat ophalen, berekeningen maken, rapporteren (automatisch)
-- 🟡 **ORANJE** — Journaalpost afschrijvingen klaarzetten als memoriaalpost
-- 🔴 **ROOD** — Afschrijvingsjournaalpost definitief wegschrijven
-
 ## Moneybird / AFAS
 
 Moneybird heeft geen uitgebreid activabeheer. Vraag de accountant om de activastaat als bestand te uploaden, of gebruik de gegevens uit de boekhouding zelf (grootboekrekeningen 0xxx).

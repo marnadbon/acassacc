@@ -127,12 +127,6 @@ BIJZONDERHEDEN:
 
 Als de post vaste activa is: activeer automatisch de afschrijvingen-berekenen skill voor de berekening.
 
-## Goedkeuringsmodel
-
-- 🟢 **GROEN** — Specificaties ophalen en rapporteren (automatisch)
-- 🟡 **ORANJE** — Correctieboeking voorstellen voor gevonden verschil
-- 🔴 **ROOD** — Correctie definitief boeken
-
 ## Referenties
 
 Voor RJ-richtlijnen en classificatie-regels:

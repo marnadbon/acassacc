@@ -96,3 +96,13 @@ Voor elke gevonden fout: stel een memoriaalpost voor als correctie. Presenteer a
 Moneybird heeft minder analysemogelijkheden. Controleer:
 - `list_sales_invoices` + `list_purchase_invoices` op dubbele facturen (zelfde bedrag + datum + contact)
 - Openstaande posten die ouder zijn dan 1 jaar (waarschijnlijk administratieve fout)
+
+## Referenties
+
+### Reference bestanden
+- **`references/exact-queries.md`** — SQL queries voor kwaliteitschecks (TransactionLines, VATCodes, ReportingBalance)
+
+### Voorbeelden
+- **`examples/`** — Voorbeeldoutputs van kwaliteitschecks
+
+Laad `references/exact-queries.md` voor de exacte queries bij het zoeken naar dubbele boekingen en foute BTW-codes.

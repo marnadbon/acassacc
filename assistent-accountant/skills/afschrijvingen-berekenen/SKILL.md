@@ -107,3 +107,17 @@ Wil je de journaalpost voor de afschrijvingen aanmaken?
 ## Moneybird / AFAS
 
 Moneybird heeft geen uitgebreid activabeheer. Vraag de accountant om de activastaat als bestand te uploaden, of gebruik de gegevens uit de boekhouding zelf (grootboekrekeningen 0xxx).
+
+## Referenties
+
+### Reference bestanden
+- **`references/exact-queries.md`** — SQL queries voor Assets.Assets en DepreciationMethods
+
+### Scripts
+- **`scripts/kia-berekening.py`** — KIA-staffel berekening 2025. Gebruik: `python kia-berekening.py <bedrag>`
+  Geeft direct de KIA-aftrek terug op basis van de investering.
+
+### Voorbeelden
+- **`examples/voorbeeld-afschrijvingsoverzicht.md`** — Voorbeeld van een volledig afschrijvingsoverzicht met KIA-berekening
+
+Gebruik `scripts/kia-berekening.py` voor precieze KIA-berekeningen; de staffel is complex en foutgevoelig als handmatig berekend.

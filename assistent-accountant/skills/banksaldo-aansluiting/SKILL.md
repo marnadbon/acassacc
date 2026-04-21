@@ -83,3 +83,14 @@ Als er een verschil is:
 Het werkelijke banksaldo komt **niet** uit Exact Online — dat moet de accountant aanleveren (bankafschrift of online banking). De skill vergelijkt wat de accountant opgeeft met wat er in de boekhouding staat.
 
 Als het saldo klopt en er geen onverwerkte transacties zijn: ✅ aansluiting compleet.
+
+## Referenties
+
+### Reference bestanden
+- **`references/exact-queries.md`** — Alle Exact Online SQL queries (ReportingBalance, Journals, BankEntryLines)
+- **`references/moneybird-endpoints.md`** — Moneybird REST endpoints voor bankrekeningen en saldi
+
+### Voorbeelden
+- **`examples/`** — Voorbeeldoutputs van bankaansluitingen
+
+Laad `references/exact-queries.md` als je de exacte SQL-syntax nodig hebt voor ReportingBalance of BankEntryLines.

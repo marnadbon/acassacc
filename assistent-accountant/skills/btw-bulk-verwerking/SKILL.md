@@ -79,3 +79,17 @@ Na het dashboard:
 ## Beperking
 
 BTW bulk werkt het beste met Exact Online (via System/Divisions om alle administraties op te halen). Voor Moneybird en AFAS: verwerk administraties één voor één of laat de accountant de klantlijst aanleveren.
+
+## Referenties
+
+### Reference bestanden
+- **`references/btw-rubrieken.md`** — Volledige BTW-rubrieken 1a t/m 5g, tarieven 2025, ICP-regels, deadlines
+- **`references/exact-queries.md`** — SQL queries voor System.Divisions en VATTransactions
+
+### Scripts
+- **`scripts/bulk-status.py`** — Genereer statusoverzicht voor alle klanten als JSON-input beschikbaar is
+
+### Voorbeelden
+- **`examples/`** — Voorbeeldoutputs van bulk-runs
+
+Laad `references/btw-rubrieken.md` wanneer je rubriek-toewijzingen of deadlines nodig hebt.

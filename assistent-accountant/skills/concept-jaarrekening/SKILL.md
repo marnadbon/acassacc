@@ -148,3 +148,12 @@ ACTIEPUNTEN VOOR DEFINITIEVE JAARREKENING:
 
 Voor RJ-richtlijnen en balansindeling:
 > Lees `references/rj-richtlijnen.md`
+
+### Alle referentiebestanden
+- **`references/rj-richtlijnen.md`** — RJ-balansindeling, W&V-structuur, verplichte toelichtingen (art. 2:396 BW), RC DGA regels
+- **`references/exact-queries.md`** — SQL queries voor ReportingBalance (twee boekjaren), GLClassifications, TransactionLines
+
+### Voorbeelden
+- **`examples/`** — Voorbeeld concept-jaarrekeningen
+
+Laad `references/rj-richtlijnen.md` voor de exacte balansindeling en verplichte toelichtingen bij samenstellen.

@@ -91,3 +91,14 @@ Na het overzicht, bied aan:
 - Toon bedragen altijd in euro met 2 decimalen
 - Als een factuur >90 dagen open staat: markeer altijd met ⚠️ en stel actie voor
 - Debiteurenlijst en crediteurenlijst altijd apart presenteren, nooit samenvoegen
+
+## Referenties
+
+### Reference bestanden
+- **`references/exact-queries.md`** — SQL queries voor ReceivablesList en PayablesList
+- **`references/moneybird-endpoints.md`** — Moneybird endpoints voor sales/purchase invoices
+
+### Voorbeelden
+- **`examples/`** — Voorbeeldoutputs van ouderdomsanalyses
+
+Laad `references/exact-queries.md` voor de exacte SQL-syntax van ReceivablesList en PayablesList.

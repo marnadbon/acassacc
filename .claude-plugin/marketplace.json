@@ -1,0 +1,20 @@
+{
+  "name": "vaice-marketplace",
+  "version": "1.0.0",
+  "description": "Vaice — AI-medewerkers voor accountantskantoren",
+  "owner": {
+    "name": "Vaice"
+  },
+  "plugins": [
+    {
+      "name": "assistent-accountant",
+      "description": "AI-assistent voor de dagelijkse taken van een assistent-accountant: bankafschriften matchen, BTW-aangifte, jaarrekening samenstellen en stukken opvragen.",
+      "source": "./assistent-accountant"
+    },
+    {
+      "name": "fiscalist",
+      "description": "AI-assistent voor fiscale taken: VPB-aangifte, RC-DGA bewaking, dividend en suppletie.",
+      "source": "./fiscalist"
+    }
+  ]
+}

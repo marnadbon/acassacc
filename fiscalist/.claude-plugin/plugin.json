@@ -1,0 +1,8 @@
+{
+  "name": "fiscalist",
+  "version": "0.1.0",
+  "description": "AI-assistent voor fiscale taken: VPB-aangifte voorbereiden, RC-DGA bewaken, dividend beoordelen en suppletie-aangifte. Vereist assistent-accountant plugin voor basisdata.",
+  "author": {
+    "name": "Vaice"
+  }
+}

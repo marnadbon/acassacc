@@ -1,6 +1,6 @@
 {
   "name": "assistent-accountant",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI-assistent voor de dagelijkse taken van een assistent-accountant in een samenstelpraktijk: bankafschriften matchen, BTW-aangifte voorbereiden, jaarrekening samenstellen, openstaande posten bewaken en stukken opvragen bij klanten.",
   "author": {
     "name": "Vaice"
